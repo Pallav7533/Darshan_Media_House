@@ -8,8 +8,8 @@ export default function Services() {
     <div className="w-full">
       <section className="relative py-32 bg-background border-b border-border">
         <div className="absolute inset-0 z-0">
-          <img src="/services-bg.png" alt="Services" className="w-full h-full object-cover object-center opacity-20" />
-          <div className="absolute inset-0 bg-gradient-to-b from-background via-background/90 to-background"></div>
+          <img src="/service-influencer.png" alt="Services" className="w-full h-full object-cover object-center opacity-55" />
+          <div className="absolute inset-0 bg-gradient-to-b from-[#111111]/30 via-[#111111]/65 to-[#111111]"></div>
         </div>
         <div className="container relative z-10 mx-auto px-4 text-center max-w-4xl">
           <motion.h1 
@@ -47,7 +47,7 @@ export default function Services() {
                   <Link href={`/services/${service.slug}`} className="block h-full bg-card rounded-2xl border border-card-border overflow-hidden hover:border-primary/50 transition-all duration-300 hover:shadow-lg">
                     <div className="h-48 relative overflow-hidden">
                       <img src={service.image} alt={service.title} className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105" />
-                      <div className="absolute inset-0 bg-background/60 group-hover:bg-background/40 transition-colors"></div>
+                      <div className="absolute inset-0 bg-background/30 group-hover:bg-background/10 transition-colors"></div>
                       <div className="absolute top-6 left-6 w-12 h-12 rounded-lg bg-background/80 backdrop-blur border border-white/10 flex items-center justify-center">
                         <Icon className="text-primary w-6 h-6" />
                       </div>

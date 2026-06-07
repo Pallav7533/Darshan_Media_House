@@ -34,7 +34,7 @@ export const services = [
     title: "Social Media Management",
     shortDesc: "Dominating feeds with strategic content.",
     icon: Share2,
-    image: "/services-bg.png",
+    image: "/service-social.png",
     subServices: [
       "Facebook Page Management",
       "Instagram Account Management",
@@ -61,7 +61,7 @@ export const services = [
     title: "Content Creation",
     shortDesc: "Scroll-stopping visuals and narratives.",
     icon: PenTool,
-    image: "/portfolio-1.png",
+    image: "/service-content.png",
     subServices: [
       "Professional Reels Creation",
       "Short Video Production",
@@ -115,7 +115,7 @@ export const services = [
     title: "Branding Services",
     shortDesc: "Building unforgettable brand identities.",
     icon: Briefcase,
-    image: "/portfolio-1.png",
+    image: "/service-branding.png",
     subServices: [
       "Logo Design",
       "Brand Identity",
@@ -140,7 +140,7 @@ export const services = [
     title: "Digital Marketing",
     shortDesc: "Data-driven growth and acquisition.",
     icon: TrendingUp,
-    image: "/about-teaser.png",
+    image: "/service-digital.png",
     subServices: [
       "Social Media Marketing",
       "Facebook Ads",
@@ -192,7 +192,7 @@ export const services = [
     title: "Business Growth",
     shortDesc: "Strategic scaling for established companies.",
     icon: LineChart,
-    image: "/services-bg.png",
+    image: "/service-digital.png",
     subServices: [
       "Digital Presence Building",
       "Online Reputation Management",
@@ -217,6 +217,7 @@ export const services = [
     shortDesc: "Capturing the essence of your product.",
     icon: Camera,
     image: "/portfolio-2.png",
+
     subServices: [
       "Product Photography",
       "Commercial Photography",
@@ -267,8 +268,11 @@ export const portfolio = [
   { id: 2, title: "Apex Financial", category: "Websites", image: "/service-web.png" },
   { id: 3, title: "Velocity Motors", category: "Videography", image: "/service-video.png" },
   { id: 4, title: "Aura Fragrances", category: "Photography", image: "/portfolio-2.png" },
-  { id: 5, title: "Nexus Tech", category: "Marketing Campaigns", image: "/service-influencer.png" },
-  { id: 6, title: "Elevate Fitness", category: "Branding", image: "/about-teaser.png" },
+  { id: 5, title: "Nexus Tech Campaign", category: "Marketing Campaigns", image: "/service-influencer.png" },
+  { id: 6, title: "Elevate Fitness Brand", category: "Branding", image: "/service-branding.png" },
+  { id: 7, title: "CreatorCo Launch", category: "Marketing Campaigns", image: "/service-social.png" },
+  { id: 8, title: "SilkHouse Editorial", category: "Photography", image: "/service-content.png" },
+  { id: 9, title: "UrbanPulse Reels", category: "Videography", image: "/about-teaser.png" },
 ];
 
 export const testimonials = [

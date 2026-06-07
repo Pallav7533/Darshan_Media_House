@@ -18,8 +18,8 @@ export default function ServiceDetail() {
       {/* Hero */}
       <section className="relative py-32 md:py-40 bg-background border-b border-border overflow-hidden">
         <div className="absolute inset-0 z-0">
-          <img src={service.image} alt={service.title} className="w-full h-full object-cover object-center opacity-20" />
-          <div className="absolute inset-0 bg-gradient-to-b from-background via-background/80 to-background"></div>
+          <img src={service.image} alt={service.title} className="w-full h-full object-cover object-center opacity-50" />
+          <div className="absolute inset-0 bg-gradient-to-b from-[#111111]/40 via-[#111111]/70 to-[#111111]"></div>
         </div>
         <div className="container relative z-10 mx-auto px-4 max-w-5xl">
           <Link href="/services" className="inline-flex items-center text-sm text-primary mb-8 hover:underline">

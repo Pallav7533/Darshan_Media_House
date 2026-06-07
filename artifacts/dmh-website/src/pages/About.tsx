@@ -9,8 +9,8 @@ export default function About() {
       {/* Hero */}
       <section className="relative py-32 md:py-48 flex items-center justify-center overflow-hidden bg-card">
         <div className="absolute inset-0 z-0">
-          <img src="/about-teaser.png" alt="About DMH" className="w-full h-full object-cover object-center opacity-30" />
-          <div className="absolute inset-0 bg-gradient-to-b from-background via-background/80 to-background"></div>
+          <img src="/about-teaser.png" alt="About DMH" className="w-full h-full object-cover object-center opacity-60" />
+          <div className="absolute inset-0 bg-gradient-to-b from-[#111111]/30 via-[#111111]/60 to-[#111111]"></div>
         </div>
         <div className="container relative z-10 mx-auto px-4 text-center max-w-4xl">
           <motion.h1 
