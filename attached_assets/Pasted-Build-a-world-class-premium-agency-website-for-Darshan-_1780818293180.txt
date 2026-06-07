@@ -1,0 +1,397 @@
+Build a world-class premium agency website for "Darshan Media House (DMH)".
+
+IMPORTANT:
+Do NOT create a bright website.
+Do NOT use flashy neon colors.
+Do NOT make it look like a cheap template.
+
+The website should feel like a premium media, branding, influencer marketing, and content production company trusted by large brands.
+
+Design Direction:
+
+* Modern Corporate Agency
+* Premium Business Appearance
+* Elegant and Professional
+* Luxury Feel
+* Dark Charcoal Background (#111111)
+* White Typography
+* Gold Accent (#D4AF37)
+* Soft Gray Sections
+* Large Professional Spacing
+* Clean Layout
+* High-End Visual Hierarchy
+* Smooth Micro Animations
+* Modern Hover Effects
+* Subtle Glassmorphism
+* Premium Service Cards
+* Cinematic Agency Feel
+
+Use the uploaded Darshan Media House logo across:
+
+* Header
+* Footer
+* Favicon
+* Hero Section
+
+Typography:
+
+* Headings: Montserrat ExtraBold
+* Body: Poppins
+
+Website Pages:
+
+Home
+About
+Services
+Portfolio
+Clients
+Blog
+Contact
+
+---
+
+HOME PAGE
+
+Hero Section:
+
+Large cinematic background showing:
+
+* Influencer campaigns
+* Professional video production
+* Social media marketing
+* Branding work
+* Content creation
+
+Headline:
+
+"Building Brands That People Remember"
+
+Subheadline:
+
+"Darshan Media House helps businesses grow through influencer marketing, content creation, digital branding, social media management, video production, and technology solutions."
+
+Buttons:
+
+Get Free Consultation
+View Our Work
+
+---
+
+Services Preview Section
+
+Display 10 premium service cards.
+
+Each card must have:
+
+* High-quality image
+* Icon
+* Service title
+* Short description
+* Hover animation
+
+When clicked:
+Open detailed service page.
+
+---
+
+SERVICE PAGE STRUCTURE
+
+Each main service category should have its own dedicated page.
+
+Each page must contain:
+
+1. Large Banner Image
+2. Professional Heading
+3. Detailed Description
+4. Benefits Section
+5. Process Section
+6. Service Gallery
+7. CTA Form
+
+Use premium stock-style visuals relevant to each service.
+
+---
+
+SERVICES
+
+1. Influencer Marketing Services
+
+Use influencer campaign images.
+
+Include:
+
+Influencer Marketing Campaigns
+Brand Collaborations
+Product Promotions
+Sponsored Content
+Brand Ambassador Programs
+Event Promotions
+Influencer Outreach & Management
+Influencer Campaign Strategy
+Local Influencer Promotions
+Celebrity Collaborations
+
+---
+
+2. Social Media Management
+
+Use Instagram, Facebook, LinkedIn management visuals.
+
+Include:
+
+Facebook Page Management
+Instagram Account Management
+YouTube Channel Management
+LinkedIn Management
+X Management
+Content Planning
+Content Calendar
+Posting & Scheduling
+Community Management
+Comment Handling
+Growth Strategy
+Social Media Audit
+
+---
+
+3. Content Creation
+
+Use professional reels and creative design visuals.
+
+Include:
+
+Professional Reels Creation
+Short Video Production
+Promotional Videos
+Corporate Videos
+Product Videos
+Brand Story Videos
+Testimonial Videos
+Explainer Videos
+Motion Graphics
+Graphic Design
+Carousel Posts
+Banner Design
+Thumbnail Design
+
+---
+
+4. Video Production & Editing
+
+Use cinematic production visuals.
+
+Include:
+
+Video Shoot
+Drone Videography
+Event Coverage
+Interview Recording
+Podcast Recording
+Video Editing
+Reel Editing
+YouTube Editing
+Color Grading
+Motion Effects
+Subtitles
+
+---
+
+5. Branding Services
+
+Use luxury branding mockups.
+
+Include:
+
+Logo Design
+Brand Identity
+Business Profile
+Company Portfolio
+Brand Guidelines
+Visiting Cards
+Brochures
+Flyers
+Packaging
+Personal Branding
+
+---
+
+6. Digital Marketing Services
+
+Use advertising and analytics visuals.
+
+Include:
+
+Social Media Marketing
+Facebook Ads
+Instagram Ads
+Google Ads
+YouTube Ads
+Lead Generation
+WhatsApp Marketing
+Email Marketing
+Remarketing
+Conversion Optimization
+Performance Marketing
+
+---
+
+7. Website & Technology Solutions
+
+Use premium website and software visuals.
+
+Include:
+
+Business Websites
+E-Commerce Websites
+Landing Pages
+Portfolio Websites
+Website Redesign
+Website Maintenance
+SEO
+Domain Setup
+Hosting
+Security
+Custom Web Solutions
+
+---
+
+8. Business Growth Services
+
+Use strategy and business growth visuals.
+
+Include:
+
+Digital Presence Building
+Online Reputation Management
+Google Business Profile
+Reviews Management
+Local Promotion
+Consultation
+Marketing Strategy
+Competitor Analysis
+Brand Awareness
+
+---
+
+9. Photography Services
+
+Use professional photography visuals.
+
+Include:
+
+Product Photography
+Commercial Photography
+Corporate Photography
+Event Photography
+Social Media Photography
+Food Photography
+Fashion Photography
+
+---
+
+10. Advanced Services
+
+Use premium business campaign visuals.
+
+Include:
+
+Political Campaign Promotion
+Real Estate Marketing
+Hotel Promotion
+Restaurant Promotion
+Educational Marketing
+Healthcare Marketing
+Startup Launch Campaigns
+PR & Media Coverage
+Podcast Production
+AI Content Creation
+AI Voiceovers
+Influencer Training
+
+---
+
+PORTFOLIO PAGE
+
+Create premium agency portfolio.
+
+Filter Categories:
+
+Branding
+Photography
+Videography
+Websites
+Marketing Campaigns
+
+Large image gallery.
+
+Case studies.
+
+Before/After examples.
+
+---
+
+CLIENT TESTIMONIALS
+
+Animated testimonials.
+
+Company logos.
+
+Success stories.
+
+---
+
+CONTACT PAGE
+
+Luxury contact section.
+
+Contact form.
+
+WhatsApp integration.
+
+Google Maps.
+
+Email.
+
+Phone.
+
+Social media links.
+
+---
+
+FOOTER
+
+About Company
+
+Services
+
+Quick Links
+
+Contact
+
+Social Links
+
+Tagline:
+
+"We Create. You Grow."
+
+---
+
+FINAL REQUIREMENTS
+
+The website should look comparable to top international agencies.
+
+Avoid template appearance.
+
+Avoid bright colors.
+
+Avoid childish animations.
+
+Use professional imagery.
+
+Use strong spacing.
+
+Make the website fully responsive.
+
+Optimize for mobile, tablet, laptop, and desktop.
+
+Create a modern premium business experience that builds trust and converts visitors into clients.

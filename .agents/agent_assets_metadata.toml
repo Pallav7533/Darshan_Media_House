@@ -1,0 +1,62 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "xwruaKAQBhOLdT7CJYwoE"
+uri = "file://artifacts/dmh-website/public/hero-bg.png"
+type = "image"
+title = "Cinematic dark abstract hero background"
+
+[[generated]]
+id = "QgevkNTc6EcDTKnD8o7n6"
+uri = "file://artifacts/dmh-website/public/about-teaser.png"
+type = "image"
+title = "Premium media agency workspace"
+
+[[generated]]
+id = "vMmfEk3xAXLXh-rysiwlw"
+uri = "file://artifacts/dmh-website/public/service-influencer.png"
+type = "image"
+title = "Influencer marketing campaign visuals"
+
+[[generated]]
+id = "L9pVm0NcqEmtUpA7w05od"
+uri = "file://artifacts/dmh-website/public/service-video.png"
+type = "image"
+title = "Video production equipment in dark"
+
+[[generated]]
+id = "103nlQL5L77vLkh2jNz7_"
+uri = "file://artifacts/dmh-website/public/portfolio-1.png"
+type = "image"
+title = "Premium branding portfolio piece"
+
+[[generated]]
+id = "2Lm1V8THlDDR8miD7_t9k"
+uri = "file://artifacts/dmh-website/public/portfolio-2.png"
+type = "image"
+title = "Photography portfolio piece"
+
+[[generated]]
+id = "jPPm9ej26qMTZkUP70eC6"
+uri = "file://artifacts/dmh-website/public/clients-bg.png"
+type = "image"
+title = "Dark corporate event photography"
+
+[[generated]]
+id = "JJjiMYI-bsgzDzaxzJmb3"
+uri = "file://artifacts/dmh-website/public/services-bg.png"
+type = "image"
+title = "Creative branding presentation"
+
+[[generated]]
+id = "Gv3biEewD9QgMJW4ga6YH"
+uri = "file://artifacts/dmh-website/public/contact-bg.png"
+type = "image"
+title = "Modern dark office interior"
+
+[[generated]]
+id = "OFar7rtmRgH5QehNW0nkR"
+uri = "file://artifacts/dmh-website/public/service-web.png"
+type = "image"
+title = "Web technology code abstraction"
