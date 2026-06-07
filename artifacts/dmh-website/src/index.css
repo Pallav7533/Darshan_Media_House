@@ -138,3 +138,56 @@
     font-family: var(--app-font-serif);
   }
 }
+
+/* Premium scrollbar */
+::-webkit-scrollbar { width: 4px; }
+::-webkit-scrollbar-track { background: #111111; }
+::-webkit-scrollbar-thumb { background: #D4AF37; border-radius: 2px; }
+
+/* Selection color */
+::selection { background: rgba(212,175,55,0.25); color: white; }
+
+/* Smooth scroll */
+html { scroll-behavior: smooth; }
+
+/* Section number label style */
+.section-eyebrow {
+  font-family: var(--app-font-sans);
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.25em;
+  text-transform: uppercase;
+  color: hsl(var(--primary));
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+.section-eyebrow::before {
+  content: '';
+  display: block;
+  width: 32px;
+  height: 1px;
+  background: hsl(var(--primary));
+}
+
+/* Gold shimmer animation for buttons */
+@keyframes shimmer {
+  0% { background-position: -200% center; }
+  100% { background-position: 200% center; }
+}
+.btn-gold-shimmer {
+  background: linear-gradient(105deg, #D4AF37 0%, #F5D770 40%, #D4AF37 60%, #A8892A 100%);
+  background-size: 200% auto;
+  animation: shimmer 3s linear infinite;
+  color: #111111;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  font-size: 13px;
+}
+
+/* Diagonal line separator */
+.gold-line {
+  height: 1px;
+  background: linear-gradient(90deg, transparent, rgba(212,175,55,0.4), transparent);
+}
