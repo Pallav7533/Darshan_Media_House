@@ -94,7 +94,7 @@ export default function Contact() {
                     <div>
                       <h4 className="text-lg font-bold text-white mb-1">Email Us</h4>
                       <p className="text-muted-foreground">hello@darshanmediahouse.com</p>
-                      <p className="text-muted-foreground">press@darshanmediahouse.com</p>
+                      <p className="text-muted-foreground">info@darshanmediahouse.com</p>
                     </div>
                   </div>
                   <div className="flex items-start">
@@ -103,7 +103,7 @@ export default function Contact() {
                     </div>
                     <div>
                       <h4 className="text-lg font-bold text-white mb-1">Call Us</h4>
-                      <p className="text-muted-foreground">+1 (800) 555-0199</p>
+                      <p className="text-muted-foreground">+91 7016885397</p>
                     </div>
                   </div>
                   <div className="flex items-start">
@@ -112,19 +112,31 @@ export default function Contact() {
                     </div>
                     <div>
                       <h4 className="text-lg font-bold text-white mb-1">Visit Us</h4>
-                      <p className="text-muted-foreground">Level 4, Creative Tower<br/>Media City District, NY 10001</p>
+                      <p className="text-muted-foreground">Modheshvari society,Deesa,Banaskantha,385535</p>
                     </div>
                   </div>
                 </div>
               </div>
 
               <div className="p-8 bg-[#161616] rounded-2xl border border-border">
-                <h3 className="text-xl font-bold mb-4">Immediate Assistance?</h3>
-                <p className="text-muted-foreground mb-6">Message us directly on WhatsApp for rapid response.</p>
-                <Button className="w-full bg-[#25D366] hover:bg-[#20bd5a] text-white font-bold h-12">
-                  Chat on WhatsApp
-                </Button>
-              </div>
+  <h3 className="text-xl font-bold mb-4">Immediate Assistance?</h3>
+
+  <p className="text-muted-foreground mb-6">
+    Message us directly on WhatsApp for rapid response.
+  </p>
+
+  <Button
+    className="w-full bg-[#25D366] hover:bg-[#20bd5a] text-white font-bold h-12"
+    onClick={() =>
+      window.open(
+        "https://wa.me/917016885397?text=Hello%20Darshan%20Media%20House,%20I%20need%20assistance.",
+        "_blank"
+      )
+    }
+  >
+    Chat on WhatsApp
+  </Button>
+</div>
             </div>
 
           </div>

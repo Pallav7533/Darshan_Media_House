@@ -41,9 +41,9 @@ export default function Blog() {
                   <p className="text-muted-foreground mb-8 flex-grow">
                     {post.excerpt}
                   </p>
-                  <Link href={`/blog/${post.id}`} className="inline-block text-sm font-semibold text-white uppercase tracking-wider hover:text-primary transition-colors">
-                    Read Article →
-                  </Link>
+                  <span className="inline-block text-sm font-semibold text-white uppercase tracking-wider cursor-default">
+  Read Article →
+</span>
                 </div>
               </motion.article>
             ))}

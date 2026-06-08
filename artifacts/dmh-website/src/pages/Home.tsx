@@ -120,9 +120,9 @@ export default function Home() {
         <div className="container mx-auto px-4 py-16">
           <div className="grid grid-cols-2 lg:grid-cols-4 gap-12 lg:gap-8">
             {[
-              { label: "Brands Elevated", value: 500, suffix: "+" },
+              { label: "Brands Elevated", value: 50, suffix: "+" },
               { label: "Premium Services", value: 10, suffix: "+" },
-              { label: "Years of Excellence", value: 5, suffix: "" },
+              { label: "Years of Excellence", value: 6, suffix: "" },
               { label: "Audience Reach", value: 1, suffix: "M+" }
             ].map((stat, i) => (
               <div key={i} className="flex flex-col items-center lg:items-start lg:pl-12">

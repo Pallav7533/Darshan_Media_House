@@ -91,11 +91,11 @@ export default function Footer() {
             <ul className="space-y-6">
               <li className="flex items-start space-x-4 text-[13px] text-muted-foreground font-sans">
                 <MapPin size={18} className="text-primary shrink-0 mt-0.5" />
-                <span className="leading-relaxed">Level 4, Creative Tower,<br/>Media City District</span>
+                <span className="leading-relaxed"> Modheshvari Society,<br/>Deesa,Banaskantha,385535</span>
               </li>
               <li className="flex items-center space-x-4 text-[13px] text-muted-foreground font-sans">
                 <Phone size={18} className="text-primary shrink-0" />
-                <span>+1 (800) 555-0199</span>
+                <span>+91 7016885397</span>
               </li>
               <li className="flex items-center space-x-4 text-[13px] text-muted-foreground font-sans">
                 <Mail size={18} className="text-primary shrink-0" />
