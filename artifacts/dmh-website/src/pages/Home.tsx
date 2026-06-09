@@ -53,7 +53,7 @@ export default function Home() {
       className="w-full bg-[#111111]"
     >
       {/* Hero Section */}
-      <section className="relative min-h-[85vh] md:min-h-[100vh] flex items-center justify-center overflow-hidden">
+      <section className="relative min-h-[75vh] md:min-h-[100vh] flex items-center justify-center overflow-hidden">
         <div className="absolute inset-0 z-0">
           <img 
             src="/hero-bg.png" 
