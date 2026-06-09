@@ -53,7 +53,7 @@ export default function Home() {
       className="w-full bg-[#111111]"
     >
       {/* Hero Section */}
-      <section className="relative min-h-[100vh] flex items-center justify-center overflow-hidden">
+      <section className="relative min-h-[100vh] flex items-start justify-center overflow-hidden pt-28 md:pt-0">
         <div className="absolute inset-0 z-0">
           <img 
             src="/hero-bg.png" 
@@ -70,7 +70,7 @@ export default function Home() {
           className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[800px] h-[800px] bg-[radial-gradient(circle,rgba(212,175,55,0.1)_0%,transparent_70%)] blur-3xl pointer-events-none z-0"
         />
         
-        <div className="container relative z-10 mx-auto px-4 text-center mt-10 md:mt-20">
+        <div className="container relative z-10 mx-auto px-4 text-center mt-20">
           <motion.div variants={sectionVariants} initial="hidden" animate="visible" className="flex flex-col items-center">
             <motion.h1 
               variants={itemVariants}
