@@ -103,16 +103,7 @@ export default function Home() {
           </motion.div>
         </div>
 
-        {/* Scroll Indicator */}
-        <div className="absolute bottom-10 left-1/2 -translate-x-1/2 flex flex-col items-center z-10">
-          <span className="text-[10px] uppercase tracking-[0.3em] font-sans font-semibold text-white/40 mb-3">Scroll</span>
-          <motion.div 
-            animate={{ y: [0, 8, 0] }} 
-            transition={{ duration: 1.5, repeat: Infinity, ease: "easeInOut" }}
-          >
-            <ArrowDownRight className="w-4 h-4 text-primary" />
-          </motion.div>
-        </div>
+
       </section>
 
       {/* Stats Bar */}
