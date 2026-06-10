@@ -44,17 +44,17 @@ export default function Contact() {
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
                   <div className="space-y-2">
                     <label className="text-sm font-medium text-foreground">Name</label>
-                    <Input placeholder="John Doe" className="bg-[#111] border-border focus-visible:ring-primary" />
+                    <Input placeholder="abc" className="bg-[#111] border-border focus-visible:ring-primary" />
                   </div>
                   <div className="space-y-2">
                     <label className="text-sm font-medium text-foreground">Email</label>
-                    <Input type="email" placeholder="john@company.com" className="bg-[#111] border-border focus-visible:ring-primary" />
+                    <Input type="email" placeholder="info@abc.com" className="bg-[#111] border-border focus-visible:ring-primary" />
                   </div>
                 </div>
                 
                 <div className="space-y-2">
                   <label className="text-sm font-medium text-foreground">Phone</label>
-                  <Input type="tel" placeholder="+1 (555) 000-0000" className="bg-[#111] border-border focus-visible:ring-primary" />
+                  <Input type="tel" placeholder="+91 9876 54321" className="bg-[#111] border-border focus-visible:ring-primary" />
                 </div>
 
                 <div className="space-y-2">
