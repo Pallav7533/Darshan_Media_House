@@ -84,7 +84,7 @@ export default function Home() {
                   <path d="M0 5 Q 50 10 100 5" stroke="currentColor" strokeWidth="2" fill="none" />
                 </svg>
               </span><br/>
-              <span className="italic text-white/90">Remember</span>
+              <span className="italic text-[#D4AF37]">Remember</span>
             </motion.h1>
             
             <motion.p variants={itemVariants} className="text-[17px] text-white/60 max-w-2xl mx-auto font-sans font-[400] leading-relaxed mt-8 mb-12">
