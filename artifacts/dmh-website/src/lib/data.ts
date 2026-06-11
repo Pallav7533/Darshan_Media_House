@@ -264,38 +264,38 @@ export const services = [
 ];
 
 export const portfolio = [
-  { id: 1, title: "Lumina Skincare", category: "Branding", image: "/portfolio-1.png" },
-  { id: 2, title: "Apex Financial", category: "Websites", image: "/service-web.png" },
-  { id: 3, title: "Velocity Motors", category: "Videography", image: "/service-video.png" },
-  { id: 4, title: "Aura Fragrances", category: "Photography", image: "/portfolio-2.png" },
-  { id: 5, title: "Nexus Tech Campaign", category: "Marketing Campaigns", image: "/service-influencer.png" },
-  { id: 6, title: "Elevate Fitness Brand", category: "Branding", image: "/service-branding.png" },
-  { id: 7, title: "CreatorCo Launch", category: "Marketing Campaigns", image: "/service-social.png" },
-  { id: 8, title: "SilkHouse Editorial", category: "Photography", image: "/service-content.png" },
-  { id: 9, title: "UrbanPulse Reels", category: "Videography", image: "/about-teaser.png" },
+  { id: 1, title: "Kosmo Oil ", category: "Branding", image: "/portfolio-1.png" },
+  { id: 2, title: "Anarta exim", category: "Websites", image: "/service-web.png" },
+  { id: 3, title: "LR Orthopedic", category: "Videography", image: "/service-video.png" },
+  { id: 4, title: "Banas Live Puff & Shree ram sena", category: "Photography", image: "/portfolio-2.png" },
+  { id: 5, title: "Jeet Hospital", category: "Marketing Campaigns", image: "/service-influencer.png" },
+  { id: 6, title: "Mahalaxmi Saree", category: "Branding", image: "/service-branding.png" },
+  { id: 7, title: "Ar Chetan Padhiyar", category: "Marketing Campaigns", image: "/service-social.png" },
+  { id: 8, title: "Deesa NagarPalika", category: "Photography", image: "/service-content.png" },
+  { id: 9, title: "DYPL Cricket", category: "Videography", image: "/about-teaser.png" },
 ];
 
 export const testimonials = [
   {
     quote: "DMH completely transformed our digital presence. Their cinematic approach to our brand story increased engagement by 400% in just one quarter.",
-    author: "Sarah Jenkins",
-    company: "Global Tech Innovations"
+    author: "AmratBhai Dave",
+    company: "DYPL Cricket"
   },
   {
     quote: "Working with Darshan Media House is like having an elite Hollywood production team combined with top-tier growth hackers. Unmatched quality.",
-    author: "Marcus Chen",
-    company: "Aura Lifestyle"
+    author: "Owner",
+    company: "Banas Live Puff"
   },
   {
     quote: "The precision and luxury feel they brought to our rebranding exceeded our expectations. They truly understand premium market positioning.",
-    author: "Elena Rodriguez",
-    company: "Vertex Financial"
+    author: "Director",
+    company: "Jeet Hospital"
   }
 ];
 
 export const clients = [
-  "Acme Corp", "Nexus", "Stark Industries", "Wayne Enterprises", 
-  "Cyberdyne", "Umbrella Corp", "Massive Dynamic", "InGen"
+  "Kosmo Oil", "Mahalaxmi", "Deesa NagarPalika", "Banas Live Puff", 
+  "Jeet Hospital", "LR Orthopedic", "DYPL Cricket", "Shree Ram Sena"
 ];
 
 export const blogPosts = [
