@@ -57,7 +57,7 @@ export default function Header() {
                     {location === link.path && (
                       <span className="absolute -bottom-1 left-1/2 -translate-x-1/2 w-[4px] h-[4px] rounded-full bg-primary" />
                     )}
-         ``         </Link>
+                  </Link>
                 </NavigationMenuItem>
               ))}
 
