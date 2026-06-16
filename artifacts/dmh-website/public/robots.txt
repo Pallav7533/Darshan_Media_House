@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://darshanmediahouse.com/sitemap.xml
