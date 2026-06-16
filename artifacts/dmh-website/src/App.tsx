@@ -14,6 +14,7 @@ import Blog from "./pages/Blog";
 import Contact from "./pages/Contact";
 import Header from "./components/layout/Header";
 import Footer from "./components/layout/Footer";
+import Influencer from "./pages/influencer";
 
 const queryClient = new QueryClient();
 
@@ -28,6 +29,7 @@ function Router() {
       <Route path="/clients" component={Clients} />
       <Route path="/blog" component={Blog} />
       <Route path="/contact" component={Contact} />
+      <Route path="/influencer" component={Influencer} />
       <Route component={NotFound} />
     </Switch>
   );

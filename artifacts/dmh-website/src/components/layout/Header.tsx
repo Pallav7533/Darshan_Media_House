@@ -57,7 +57,7 @@ export default function Header() {
                     {location === link.path && (
                       <span className="absolute -bottom-1 left-1/2 -translate-x-1/2 w-[4px] h-[4px] rounded-full bg-primary" />
                     )}
-                  </Link>
+         ``         </Link>
                 </NavigationMenuItem>
               ))}
 
@@ -92,9 +92,11 @@ export default function Header() {
               </NavigationMenuItem>
 
               {[
-                { name: "Portfolio", path: "/portfolio" },
-                { name: "Clients", path: "/clients" },
-                { name: "Blog", path: "/blog" }
+                 { name: "Portfolio", path: "/portfolio" },
+                 { name: "Clients", path: "/clients" },
+                 { name: "Blog", path: "/blog" },
+                 { name: "Influencer", path: "/influencer" }
+               
               ].map(link => (
                 <NavigationMenuItem key={link.path}>
                   <Link href={link.path} className="relative text-[13px] font-sans font-[500] tracking-[0.08em] uppercase hover:text-primary transition-colors py-2 group">
@@ -132,7 +134,7 @@ export default function Header() {
       {/* Mobile Menu */}
       {mobileMenuOpen && (
         <div className="lg:hidden absolute top-full left-0 right-0 bg-background/95 backdrop-blur-xl border-b border-primary/20 shadow-2xl p-6 flex flex-col space-y-6 max-h-[85vh] overflow-y-auto">
-          {["Home", "About", "Portfolio", "Clients", "Blog", "Contact"].map((item) => (
+          {["Home", "About", "Portfolio", "Clients", "Blog", "Influencer", "Contact"].map((item) => (
             <Link 
               key={item}
               href={item === "Home" ? "/" : `/${item.toLowerCase()}`} 

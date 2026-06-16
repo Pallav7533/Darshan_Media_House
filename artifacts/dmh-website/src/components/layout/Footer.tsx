@@ -27,22 +27,40 @@ export default function Footer() {
               Delivering world-class media, branding, and marketing solutions for brands that refuse to blend in.
             </p>
             <div className="flex space-x-3">
-              {[
-                { icon: Facebook, id: "fb" },
-                { icon: Instagram, id: "ig" },
-                { icon: Linkedin, id: "li" },
-                { icon: Youtube, id: "yt" }
-              ].map((Social, i) => (
-                <a 
-                  key={i} 
-                  href="#" 
-                  className="w-10 h-10 rounded-full border border-white/10 flex items-center justify-center text-muted-foreground hover:text-primary hover:border-primary transition-all duration-300"
-                  data-testid={`social-${Social.id}`}
-                >
-                  <Social.icon size={16} />
-                </a>
-              ))}
-            </div>
+  {[
+    {
+      icon: Facebook,
+      id: "fb",
+      link: "https://www.instagram.com/darshan_media_house/"
+    },
+    {
+      icon: Instagram,
+      id: "ig",
+      link: "https://www.instagram.com/darshan_media_house/"
+    },
+    {
+      icon: Linkedin,
+      id: "li",
+      link: "https://www.instagram.com/darshan_media_house/"
+    },
+    {
+      icon: Youtube,
+      id: "yt",
+      link: "https://www.instagram.com/darshan_media_house/"
+    }
+  ].map((Social, i) => (
+    <a
+      key={i}
+      href={Social.link}
+      target="_blank"
+      rel="noopener noreferrer"
+      className="w-10 h-10 rounded-full border border-white/10 flex items-center justify-center text-muted-foreground hover:text-primary hover:border-primary transition-all duration-300"
+      data-testid={`social-${Social.id}`}
+    >
+      <Social.icon size={16} />
+    </a>
+  ))}
+</div>
           </div>
 
           {/* Services */}
