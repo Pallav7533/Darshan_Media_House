@@ -117,7 +117,7 @@ export default function Footer() {
               </li>
               <li className="flex items-center space-x-4 text-[13px] text-muted-foreground font-sans">
                 <Mail size={18} className="text-primary shrink-0" />
-                <span>hello@darshanmediahouse.com</span>
+                <span>banasvlogger@gmail.com</span>
               </li>
             </ul>
           </div>

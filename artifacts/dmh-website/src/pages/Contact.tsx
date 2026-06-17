@@ -93,8 +93,7 @@ export default function Contact() {
                     </div>
                     <div>
                       <h4 className="text-lg font-bold text-white mb-1">Email Us</h4>
-                      <p className="text-muted-foreground">hello@darshanmediahouse.com</p>
-                      <p className="text-muted-foreground">info@darshanmediahouse.com</p>
+                      <p className="text-muted-foreground">banasvlogger@gmail.com</p>
                     </div>
                   </div>
                   <div className="flex items-start">
