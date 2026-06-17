@@ -58,7 +58,7 @@ export default function Home() {
           <img 
             src="/hero-bg.png" 
             alt="DMH Hero Background" 
-            className="w-full h-full object-cover object-center opacity-70"
+            className="w-full h-full object-cover object-center opacity-25"
           />
           <div className="absolute inset-0 bg-gradient-to-t from-[#111111] via-[#111111]/80 to-transparent top-[40%]"></div>
         </div>
