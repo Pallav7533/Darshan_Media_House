@@ -53,7 +53,7 @@ export default function Influencer() {
 ${formData.about}
 `;
 
-    const whatsappNumber = "918200877397"; // apna whatsapp number
+    const whatsappNumber = "917016885397"; // apna whatsapp number
 
     window.open(
       `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(message)}`,
