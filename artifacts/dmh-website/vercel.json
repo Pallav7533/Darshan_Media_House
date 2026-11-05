@@ -1,8 +1,16 @@
 {
-    "rewrites": [
-      {
-        "source": "/(.*)",
-        "destination": "/index.html"
-      }
-    ]
-  }
+  "rewrites": [
+    { "source": "/login", "destination": "https://darshan-erp.vercel.app/login" },
+    { "source": "/admin", "destination": "https://darshan-erp.vercel.app/admin" },
+    { "source": "/admin/:p*", "destination": "https://darshan-erp.vercel.app/admin/:p*" },
+    { "source": "/manager", "destination": "https://darshan-erp.vercel.app/manager" },
+    { "source": "/manager/:p*", "destination": "https://darshan-erp.vercel.app/manager/:p*" },
+    { "source": "/hr", "destination": "https://darshan-erp.vercel.app/hr" },
+    { "source": "/hr/:p*", "destination": "https://darshan-erp.vercel.app/hr/:p*" },
+    { "source": "/employee", "destination": "https://darshan-erp.vercel.app/employee" },
+    { "source": "/employee/:p*", "destination": "https://darshan-erp.vercel.app/employee/:p*" },
+    { "source": "/erp-assets/:p*", "destination": "https://darshan-erp.vercel.app/erp-assets/:p*" },
+    { "source": "/erp-api/:p*", "destination": "https://darshan-erp.vercel.app/erp-api/:p*" },
+    { "source": "/(.*)", "destination": "/index.html" }
+  ]
+}
